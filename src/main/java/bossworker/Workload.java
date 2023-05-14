@@ -1,4 +1,4 @@
-package org.example.bossworkers;
+package bossworker;
 
 public class Workload {
 

@@ -1,6 +1,6 @@
-package org.example.bossworkers.withoutsync;
+package bossworker.withoutsync;
 
-import org.example.bossworkers.Workload;
+import bossworker.Workload;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

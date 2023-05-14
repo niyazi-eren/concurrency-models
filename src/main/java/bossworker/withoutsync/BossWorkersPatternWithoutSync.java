@@ -1,4 +1,4 @@
-package org.example.bossworkers.withoutsync;
+package bossworker.withoutsync;
 
 import java.util.HashMap;
 import java.util.Map;

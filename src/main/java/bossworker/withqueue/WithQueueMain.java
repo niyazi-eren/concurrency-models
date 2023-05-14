@@ -1,7 +1,7 @@
-package org.example.bossworkers.withqueue;
+package bossworker.withqueue;
 
-import static org.example.bossworkers.Constants.N_TASKS;
-import static org.example.bossworkers.Constants.N_THREADS;
+import static bossworker.Constants.N_TASKS;
+import static bossworker.Constants.N_THREADS;
 
 public class WithQueueMain {
 

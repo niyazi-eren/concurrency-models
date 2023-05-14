@@ -1,6 +1,6 @@
-package org.example.bossworkers.withqueue;
+package bossworker.withqueue;
 
-import org.example.bossworkers.Workload;
+import bossworker.Workload;
 
 import java.util.ArrayDeque;
 import java.util.concurrent.locks.ReentrantLock;

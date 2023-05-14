@@ -1,4 +1,4 @@
-package org.example.bossworkers.withqueue;
+package bossworker.withqueue;
 
 public class WorkerThread extends Thread {
     Shared shared;

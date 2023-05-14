@@ -1,4 +1,4 @@
-package org.example.bossworkers.withqueue;
+package bossworker.withqueue;
 
 import java.util.ArrayDeque;
 import java.util.concurrent.locks.Condition;

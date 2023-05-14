@@ -1,4 +1,4 @@
-package org.example.bossworkers;
+package bossworker;
 
 public class Constants {
     public static final int N_THREADS = 3;
