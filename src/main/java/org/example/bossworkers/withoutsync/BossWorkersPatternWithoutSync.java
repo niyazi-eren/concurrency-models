@@ -19,6 +19,7 @@ public class BossWorkersPatternWithoutSync {
     }
 
     public int getAvailableWorker() {
+        // TODO fix bottleneck
         for (int i = 0; i < workers.size(); i++) {
             if (workers.get(i).workload.isDone()) {
                 return i;
